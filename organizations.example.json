@@ -1,0 +1,13 @@
+[
+  {
+    "name": "مثال غير صالح للنشر — استبدله بعد المراجعة",
+    "slug": "replace-after-review",
+    "description": "لا تنشر هذا السجل؛ مثال توضيحي لبنية الاستيراد فقط.",
+    "category": "الجمعيات المحلية",
+    "region": "منطقة الرياض",
+    "website": "https://example.org",
+    "verification_status": "pending",
+    "sources": [],
+    "last_reviewed_at": null
+  }
+]
